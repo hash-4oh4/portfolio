@@ -109,3 +109,47 @@ export const SKILLS_DATA = {
     "Attention to Detail", "Conflict Resolution", "Business English"
   ]
 };
+
+// Static blog data - no backend needed
+export const BLOG_DATA = [
+  {
+    id: 1,
+    title: "Understanding Zero-Day Vulnerabilities",
+    excerpt: "An in-depth analysis of zero-day vulnerabilities, their impact on cybersecurity, and how organizations can prepare for unknown threats.",
+    content: "Zero-day vulnerabilities represent one of the most significant challenges in cybersecurity today. These security flaws exist in software but are unknown to the vendor and security community, making them particularly dangerous. In this comprehensive guide, we'll explore what zero-day vulnerabilities are, how they're discovered and exploited, and most importantly, how organizations can protect themselves against these unknown threats.",
+    date: "December 15, 2024",
+    tags: ["Security", "Vulnerability", "Zero-Day"],
+    createdAt: new Date("2024-12-15"),
+    updatedAt: new Date("2024-12-15")
+  },
+  {
+    id: 2,
+    title: "Implementing Perfect Forward Secrecy",
+    excerpt: "A practical guide to implementing perfect forward secrecy in web applications to protect against future cryptographic breaches.",
+    content: "Perfect Forward Secrecy (PFS) is a cryptographic property that ensures session keys will not be compromised even if long-term secret keys are compromised. This article provides a comprehensive guide to implementing PFS in modern web applications, covering both theoretical concepts and practical implementation strategies.",
+    date: "December 10, 2024",
+    tags: ["Cryptography", "Security", "Web Security"],
+    createdAt: new Date("2024-12-10"),
+    updatedAt: new Date("2024-12-10")
+  },
+  {
+    id: 3,
+    title: "My Journey Learning Ethical Hacking",
+    excerpt: "Sharing my experience learning ethical hacking, from basic concepts to advanced penetration testing techniques and certifications.",
+    content: "Learning ethical hacking has been one of the most rewarding aspects of my cybersecurity journey. In this post, I'll share my experience, the resources I used, challenges I faced, and the certifications I pursued. Whether you're just starting out or looking to advance your skills, this guide will provide valuable insights into the world of ethical hacking.",
+    date: "December 5, 2024",
+    tags: ["Ethical Hacking", "Learning", "Career"],
+    createdAt: new Date("2024-12-05"),
+    updatedAt: new Date("2024-12-05")
+  },
+  {
+    id: 4,
+    title: "Securing Cloud Infrastructure with Terraform",
+    excerpt: "Best practices for securing cloud infrastructure using Infrastructure as Code principles with Terraform and automated security scanning.",
+    content: "As organizations increasingly adopt cloud infrastructure, securing these environments becomes paramount. This article explores how to implement security best practices using Terraform, Infrastructure as Code (IaC) principles, and automated security scanning tools to create robust, secure cloud deployments.",
+    date: "November 28, 2024",
+    tags: ["Cloud Security", "DevOps", "Infrastructure"],
+    createdAt: new Date("2024-11-28"),
+    updatedAt: new Date("2024-11-28")
+  }
+];

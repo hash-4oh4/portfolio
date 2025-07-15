@@ -22,7 +22,7 @@ export default function Home() {
               <div className="mac-window-control minimize"></div>
               <div className="mac-window-control maximize"></div>
             </div>
-            <div className="mac-window-title">portfolio.salimul.dev</div>
+            <div className="mac-window-title">portfolio@hash</div>
           </div>
           <div className="mac-window-content">
             <Hero />

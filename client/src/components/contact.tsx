@@ -216,7 +216,7 @@ export function Contact() {
 
                     <Button
                       type="submit"
-                      className="w-full bg-cyber-green hover:bg-cyber-green/80 text-black font-semibold console-heading"
+                      className="w-full bg-cyber-green hover:bg-cyber-green/80 text-white font-semibold console-heading"
                     >
                       Send Message
                       <Mail className="ml-2 h-4 w-4" />

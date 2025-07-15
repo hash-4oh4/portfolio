@@ -5,7 +5,7 @@ import { Education } from "@/components/education";
 import { Experience } from "@/components/experience";
 import { Projects } from "@/components/projects";
 import { Skills } from "@/components/skills";
-import { Blog } from "@/components/blog";
+//import { Blog } from "@/components/blog";
 import { Contact } from "@/components/contact";
 import { Footer } from "@/components/footer";
 
@@ -30,7 +30,7 @@ export default function Home() {
             <Experience />
             <Projects />
             <Skills />
-            <Blog />
+               <!-- blog removed and can be added with <Blog />  -->
             <Contact />
           </div>
         </div>

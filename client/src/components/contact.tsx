@@ -79,7 +79,7 @@ export function Contact() {
                   </div>
                   <div>
                     <h4 className="font-semibold console-heading">Email</h4>
-                    <p className="text-slate-300">salimulhashir@example.com</p>
+                    <p className="text-slate-300">salimulhashir2004@gmail.com</p>
                   </div>
                 </div>
 
@@ -89,7 +89,7 @@ export function Contact() {
                   </div>
                   <div>
                     <h4 className="font-semibold console-heading">Phone</h4>
-                    <p className="text-slate-300">+1 (555) 123-4567</p>
+                    <p className="text-slate-300">+91 9942440513</p>
                   </div>
                 </div>
 
@@ -99,7 +99,7 @@ export function Contact() {
                   </div>
                   <div>
                     <h4 className="font-semibold console-heading">Location</h4>
-                    <p className="text-slate-300">Available for remote work</p>
+                    <p className="text-slate-300">Available for Onsite and remote work</p>
                   </div>
                 </div>
               </div>
@@ -109,7 +109,7 @@ export function Contact() {
                 <h4 className="font-semibold mb-4 console-heading">Follow Me</h4>
                 <div className="flex space-x-4">
                   <a 
-                    href="https://linkedin.com/in/salimulhashir" 
+                    href="https://linkedin.com/in/salimul-hashir" 
                     target="_blank" 
                     rel="noopener noreferrer"
                     className="flex items-center justify-center w-12 h-12 bg-cyber-green/20 rounded-lg hover:bg-cyber-green/30 transition-colors"
@@ -117,7 +117,7 @@ export function Contact() {
                     <Linkedin className="text-cyber-green" size={20} />
                   </a>
                   <a 
-                    href="https://github.com/salimulhashir" 
+                    href="https://github.com/hash-4oh4" 
                     target="_blank" 
                     rel="noopener noreferrer"
                     className="flex items-center justify-center w-12 h-12 bg-cyber-green/20 rounded-lg hover:bg-cyber-green/30 transition-colors"
@@ -125,7 +125,7 @@ export function Contact() {
                     <Github className="text-cyber-green" size={20} />
                   </a>
                   <a 
-                    href="https://twitter.com/salimulhashir" 
+                    href="https://twitter.com/salimul_hashir" 
                     target="_blank" 
                     rel="noopener noreferrer"
                     className="flex items-center justify-center w-12 h-12 bg-cyber-green/20 rounded-lg hover:bg-cyber-green/30 transition-colors"

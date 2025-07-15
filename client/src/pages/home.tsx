@@ -30,7 +30,6 @@ export default function Home() {
             <Experience />
             <Projects />
             <Skills />
-               <!-- blog removed and can be added with <Blog />  -->
             <Contact />
           </div>
         </div>
